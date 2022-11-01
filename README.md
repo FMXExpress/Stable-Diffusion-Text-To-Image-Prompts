@@ -5,5 +5,7 @@ The Stable Diffusion Prompts Generator is a piece of software that helps develop
 
 Built with [Delphi](https://www.embarcadero.com/products/delphi/) using the FireMonkey framework this client works on Windows, macOS, Linux, Android, and iOS with a single codebase and single UI. At the moment it is specifically set up for Windows.
 
+It also features a REST integration with StableDiffusionApi.com for providing Generate Image functionality within the client. You need to sign up for an API key to access that functionality.
+
 # Stable Diffusion Text To Image Prompts Generator Screeshot on Windows
 ![Stable Diffusion Text To Image Prompts Generator on Windows](/stablediffusionscreenshot.png)
