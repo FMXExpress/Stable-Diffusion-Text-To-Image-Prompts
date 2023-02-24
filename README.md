@@ -9,3 +9,11 @@ It also features a REST integration with StableDiffusionApi.com for providing Ge
 
 # Stable Diffusion Text To Image Prompts Generator Screeshot on Windows
 ![Stable Diffusion Text To Image Prompts Generator on Windows](/stablediffusionscreenshot.png)
+
+Other Delphi AI clients:
+
+[Generative AI Prompts](https://github.com/FMXExpress/Generative-AI-Prompts)
+
+[Dreambooth Desktop Client](https://github.com/FMXExpress/DreamBooth-Desktop-Client)
+
+[Text To Vector Desktop Client](https://github.com/FMXExpress/Text-To-Vector-Desktop-Client)
